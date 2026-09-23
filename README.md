@@ -1,3 +1,5 @@
+#LUCAS CARVALHO DE ARAÚJO
+
 # 🎟️ Analisador Léxico de Compra de Ingressos
 
 Projeto acadêmico desenvolvido para a construção de um **Analisador Léxico utilizando a biblioteca Lark**, com o objetivo de reconhecer e classificar os elementos presentes em uma linguagem simples para realização de pedidos de ingressos.
