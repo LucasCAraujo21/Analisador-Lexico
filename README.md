@@ -1,4 +1,4 @@
-#LUCAS CARVALHO DE ARAÚJO
+# LUCAS CARVALHO DE ARAÚJO
 
 # 🎟️ Analisador Léxico de Compra de Ingressos
 
